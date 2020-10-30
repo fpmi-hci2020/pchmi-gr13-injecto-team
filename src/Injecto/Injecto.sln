@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injecto.Web", "Injecto.Web\Injecto.Web.csproj", "{C48BAD7C-AFF8-44A7-86C6-B8823B72245D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injecto.Test", "Injecto.Test\Injecto.Test.csproj", "{1C445D24-EA45-4B83-9EC3-206F79615422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C48BAD7C-AFF8-44A7-86C6-B8823B72245D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48BAD7C-AFF8-44A7-86C6-B8823B72245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48BAD7C-AFF8-44A7-86C6-B8823B72245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48BAD7C-AFF8-44A7-86C6-B8823B72245D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C445D24-EA45-4B83-9EC3-206F79615422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C445D24-EA45-4B83-9EC3-206F79615422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C445D24-EA45-4B83-9EC3-206F79615422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C445D24-EA45-4B83-9EC3-206F79615422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0874CFA5-CB93-4D22-8BA1-0F4BB705D249}
+	EndGlobalSection
+EndGlobal
