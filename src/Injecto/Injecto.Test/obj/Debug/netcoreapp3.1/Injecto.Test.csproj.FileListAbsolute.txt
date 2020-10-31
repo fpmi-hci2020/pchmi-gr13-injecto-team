@@ -86,7 +86,6 @@ D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\bin\Debug\netcoreapp3.1\zh-H
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.csprojAssemblyReference.cache
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.AssemblyInfoInputs.cache
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.AssemblyInfo.cs
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.csproj.CoreCompileInputs.cache

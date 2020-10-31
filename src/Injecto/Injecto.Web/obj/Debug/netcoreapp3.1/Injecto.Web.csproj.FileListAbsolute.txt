@@ -1,7 +1,6 @@
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\appsettings.json
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.csprojAssemblyReference.cache
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.AssemblyInfoInputs.cache
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.AssemblyInfo.cs
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.RazorTargetAssemblyInfo.cache
@@ -16,3 +15,13 @@ D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Injec
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.dll
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.pdb
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.genruntimeconfig.cache
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.csproj.CopyComplete
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.csproj.CoreCompileInputs.cache
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\stylecop.json
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.csprojAssemblyReference.cache
