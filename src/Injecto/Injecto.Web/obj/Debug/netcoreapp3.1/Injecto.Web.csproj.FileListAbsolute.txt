@@ -13,8 +13,6 @@ D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Injec
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Injecto.Web.runtimeconfig.dev.json
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Injecto.Web.dll
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\Injecto.Web.pdb
-D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.csproj.CoreCompileInputs.cache
-D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.dll
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.pdb
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.genruntimeconfig.cache

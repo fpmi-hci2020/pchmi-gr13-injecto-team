@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "mMnncoB2MyyJiikXrM5Od2lN29kafmf2h/iumMSiKlPu3R9pfLYcq8ZNIWY347pnYgFvaKZvuyvaO4eyUg1LUw==",
+  "dgSpecHash": "pIIagr+joYR63qeWcgEulO4t8f2VG3/Kh/5F9R3pAGZ9XZpKzPWrI3sceKqov+ZI3cKHEIvU+YIwLnVS8wIXGw==",
   "success": true,
   "projectFilePath": "D:\\pchmi-gr13-injecto-team\\src\\Injecto\\Injecto.Web\\Injecto.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\FriginPN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\FriginPN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\FriginPN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\FriginPN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\FriginPN\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\FriginPN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\FriginPN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\FriginPN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
