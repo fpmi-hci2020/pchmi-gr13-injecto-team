@@ -24,4 +24,3 @@ D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injec
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\bin\Debug\netcoreapp3.1\stylecop.json
-D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Web\obj\Debug\netcoreapp3.1\Injecto.Web.csprojAssemblyReference.cache
