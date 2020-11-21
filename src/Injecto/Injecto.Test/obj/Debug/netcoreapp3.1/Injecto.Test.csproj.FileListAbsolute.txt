@@ -93,3 +93,4 @@ D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Inje
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.dll
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.pdb
 D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.genruntimeconfig.cache
+D:\pchmi-gr13-injecto-team\src\Injecto\Injecto.Test\obj\Debug\netcoreapp3.1\Injecto.Test.csprojAssemblyReference.cache

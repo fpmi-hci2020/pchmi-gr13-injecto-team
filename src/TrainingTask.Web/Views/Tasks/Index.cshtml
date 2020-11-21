@@ -1,0 +1,85 @@
+﻿@using TrainingTask.Web.Controllers
+@model IEnumerable<TrainingTask.Web.Model.TaskViewListModel>
+
+@{
+    ViewData["Title"] = "Index";
+    ViewBag.RouteLink = Context.Request.Path;
+}
+
+<h1>Tasks</h1>
+
+<p>
+    @Html.ActionLink("Add new", TasksController.CreateAction, TasksController.Name, new {projectId = ViewBag.ProjectId, routeLink =ViewBag.RouteLink })
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        @if (ViewBag.ProjectId is null)
+        {
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectShortName)
+            </th>
+        }
+
+        <th>
+            @Html.DisplayNameFor(model => model.StartDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Employees)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            @if (ViewBag.ProjectId is null)
+            {
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectShortName)
+                </td>
+            }
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                <ul>
+                    @foreach (var employee in item.Employees)
+                    {
+                        <li>@employee</li>
+                    }
+                </ul>
+            </td>
+            <td>
+                @Html.ActionLink("Edit", TasksController.EditAction, TasksController.Name, new {id = item.Id, routeLink = ViewBag.RouteLink}) |
+                @Html.ActionLink("Delete", TasksController.DeleteAction, TasksController.Name, new {id = item.Id})
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
